@@ -2,12 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78096afb-f313-46bc-b155-60527cc8f24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/identity-hub.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/links.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/education.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/experience.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/includes/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bio.py" beforeDir="false" afterPath="$PROJECT_DIR$/website.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blame1" beforeDir="false" afterPath="$PROJECT_DIR$/static/backgrounds/blame1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blame2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/backgrounds/blame2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blame3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/backgrounds/blame3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/academia-edu.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/academia-edu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/blame.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/photography.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/cv.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/cv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/discord.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/discord.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/github.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/google-hangouts.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/google-hangouts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/hasnode.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/hashnode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/lastfm.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/lastfm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/letterboxd.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/letterboxd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/linkedin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/medium.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/medium.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/meetup.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/meetup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/quora.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/quora.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/reddit.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/reddit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/skype.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/skype.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/soundcloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/soundcloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/spotify.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/spotify.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/stack-overflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/stack-overflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/steam.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/steam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/telegram.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/telegram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/tumblr.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/tumblr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/twitch.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/twitch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/vimeo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/vimeo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/youtube.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/youtube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/links.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/.gitkeep" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +56,49 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/links.yaml">
+        <entry file="file://$PROJECT_DIR$/info.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="108" selection-start-line="108" selection-end-line="108" />
+            <state relative-caret-position="135">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/includes/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -35,11 +112,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/links.yaml" />
+        <option value="$PROJECT_DIR$/links.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/website.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="640" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectView">
@@ -58,7 +139,12 @@
             <path>
               <item name="identity-hub" type="b2602c69:ProjectViewProjectNode" />
               <item name="identity-hub" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
+              <item name=".docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="identity-hub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="identity-hub" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -70,8 +156,19 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/backgrounds" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,15 +192,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570508881895</updated>
-      <workItem from="1570508883517" duration="524000" />
+      <workItem from="1570508883517" duration="3583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="524000" />
+    <option name="totallyTimeSpent" value="3583000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -135,8 +232,65 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/links.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/backgrounds/blame2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/backgrounds/blame1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.docs/linkmybio.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7305">
+          <caret line="487" column="124" selection-start-line="487" selection-start-column="124" selection-end-line="487" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
