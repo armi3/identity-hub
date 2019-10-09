@@ -10,20 +10,12 @@ environment = os.getenv("ENVIRONMENT", "development")
 with open('info.yml') as f:
     info = yaml.load(f, Loader=yaml.FullLoader)
 
+print(info)
+print(info['identities']['github'])
 
 @app.route("/")
 def profile():
-    return render_template("profile.html", info=info)
-
-
-@app.route("/education")
-def education():
-    return render_template("education.html", info=info)
-
-
-@app.route("/experience")
-def experience():
-    return render_template("experience.html", info=info)
+    return render_template("hub.html", info=info)
 
 
 if __name__ == "__main__":

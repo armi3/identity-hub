@@ -1,0 +1,39 @@
+#bio-div {
+  text-align: center;
+  background: rgb(229,250,251);
+  background: linear-gradient(113deg, rgba(229,250,251,1) 0%, rgba(243,230,250,1) 33%, rgba(251,234,231,1) 100%);
+}
+
+#bio-container {
+  padding-top: 100px;
+}
+
+#bio-image {
+  padding-bottom: 130px;
+}
+
+#identities-container {
+  padding-top: 30px;
+  max-width: 500px;
+  padding-bottom: 200px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  icon: url(academia-edu.png;
+}
+
+.col-4.item {
+  align-items: center;
+}
+
+.col-auto.d-xl-flex.m-auto.item {
+}
+
+#image-div {
+  min-height: 100px;
+}
+
+#footer {
+  height: 100px;
+}
+

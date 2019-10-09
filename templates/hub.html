@@ -1,0 +1,40 @@
+<!-- hub.html -->
+{% set title = "🧬🦠🧼🏳️‍🌈🥾" %}
+
+<html>
+<title>{{title}}</title>
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no" name="viewport">
+    <title>hub</title>
+    <link href="{{ url_for('static', filename='assets/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='assets/css/styles.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='assets/css/untitled.css') }}" rel="stylesheet">
+
+</head>
+
+<body>
+<div class="pulse animated" id="bio-div">
+    <div class="container" id="bio-container">
+        <img class="rounded-circle shadow-sm" data-bs-hover-animate="pulse" id="profile-picture" src="static/assets/img/armi.jpg" style="margin-bottom: 30px;" width="20%">
+        <h1 id="bio-name">Fer González</h1>
+        <p id="bio-paragraph">📍 Guatemala City<br></p>
+    </div>
+    <div class="container text-center" id="identities-container">
+        <div class="row text-center">
+            {% for key in info['identities'] %}
+            <div class="col" data-bs-hover-animate="pulse">
+                <a href="{{info['identities']['key']}}">
+                <img class="rounded-circle shadow-sm" src="static/assets/img/{{key}}.png" alt="{{key}}" title="{{key}}">
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='assets/js/jquery.min.js') }}" type=text/javascript></script>
+<script src="{{ url_for('static', filename='assets/bootstrap/js/bootstrap.min.js') }}" type=text/javascript></script>
+<script src="{{ url_for('static', filename='assets/js/bs-animation.js') }}" type=text/javascript></script>
+</body>
