@@ -13,6 +13,7 @@ with open('info.yml') as f:
 print(info)
 print(info['identities']['github'])
 
+
 @app.route("/")
 def profile():
     return render_template("hub.html", info=info)
