@@ -72,3 +72,5 @@
 * https://cssgradient.io
 * https://www.youtube.com/watch?v=10SwsoYNkVc&t=1157s
 * https://devcenter.heroku.com/articles/container-registry-and-runtime
+* https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/
+* image on docker hub: https://cloud.docker.com/repository/docker/armi/identity-hub
