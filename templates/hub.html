@@ -25,7 +25,7 @@
         <div class="row text-center">
             {% for key in info['identities'] %}
             <div class="col" data-bs-hover-animate="pulse">
-                <a href="{{info['identities']['key']}}">
+                <a href="{{info['identities'][key]}}" target="_blank">
                 <img class="rounded-circle shadow-sm" src="static/assets/img/{{key}}.png" alt="{{key}}" title="{{key}}">
                 </a>
             </div>
